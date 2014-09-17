@@ -8,6 +8,8 @@
 .heartcenter {
 
 	text-align: center;
+	color: #BFEA30;
+
 
 }
 
@@ -16,9 +18,8 @@
 
 }
 
-
-
-.heartcenter {
-	color: #BFEA30;
+.btnclr {
+	color: #CC0299;
 
 }
+
